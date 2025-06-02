@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Noobiefied
+- 👋 Hi, I’m @euphrrcc.
 - 👀 I’m interested in Planes and web and software development.
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 📫 How to reach me on discord username is @noobflyne
