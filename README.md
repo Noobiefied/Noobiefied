@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @euphrrcc.
-- 👀 I’m interested in Planes and web and software development.
+- 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning JavaScript, HTML and CSS
-- 📫 How to reach me on discord username is @noobflyne
+- 📫 How to reach me: lucid.dve@gmail.com
 - 😄 Pronouns: he/him/his
 
 <!---
